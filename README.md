@@ -16,5 +16,3 @@ Hello there, I'm a Full Stack software developer from Padua (Veneto,Italy)
 - Miscellaneous: DevOps oriented, accustomed to GIT and TFS, agnostic on Visual Studio versus VS Code
 
 
-  
-Always open to collaborations and new experiences, pro bono publico for non-profit projects.
